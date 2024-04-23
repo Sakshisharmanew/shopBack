@@ -1,0 +1,84 @@
+.for_all_page{
+    background-color: #ffffff;
+}
+
+.card_product{
+width: 14rem;
+height: 10rem;
+
+}
+.productImage {
+    width: 50px;
+    height: 50px !important;
+}
+
+.flex-wrap{
+    width: 100%;
+}
+.col-md-2{
+    width: 17%;
+}
+
+.icon_view{
+    height:20px;
+    width: 35px;
+    margin-top: 5px;
+}
+.icon_views{
+    height:25px;
+    width: 35px;
+}
+.button-73 {
+    background-image: linear-gradient(#0dccea, #0d70ea);
+    border: 0;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-family: Montserrat,sans-serif;
+    font-size: 1rem;
+    padding: 4px 4px;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    height: 44px;
+  }
+
+  .button-80 {
+    background-image: linear-gradient(#ea480d, #ea0d14);
+    border: 0;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-family: Montserrat,sans-serif;
+    font-size: 1rem;
+    margin-left: 5px;
+    padding: 4px 4px;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    height: 40px;
+  }
+
+
+
+/* @media only screen and (max-width: 580px) {
+
+    .card_product{
+        width: 10rem;
+        height: 18rem;
+        
+        }
+
+        .productImage {
+            width: 10rem;
+            height: 151px !important;
+            padding: 20px;
+        }
+    
+} */

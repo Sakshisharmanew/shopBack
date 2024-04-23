@@ -1,0 +1,17 @@
+
+
+.container_contin{
+    height: 100%;
+    width: 95%;
+    background-color:white;
+}
+
+.sider_section{
+    /* height: 500px; */
+    /* width: 20%; */
+}
+
+.list-group-item-actions{
+    margin-top:5px;
+    height: 50px;
+}

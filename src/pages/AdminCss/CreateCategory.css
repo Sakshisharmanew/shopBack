@@ -1,0 +1,72 @@
+.file_selelct{
+    margin-top: 15px;
+    display: inline-flex;
+    margin-left: 20px;
+    width: 240px;
+}
+
+.for_all_page{
+    background-color: #ffffff;
+}
+.file_selelct .file{
+    width: 20rem;
+      /* border: 1px solid black; */
+
+}
+.file_selelct .files{
+    width: 20rem;
+    margin-left: 20px;
+    /* border: 1px solid black;    */
+}
+.form-control{
+    height: 55px;
+    display: flex;
+}
+
+.button-73 {
+    background-image: linear-gradient(#0dccea, #0d70ea);
+    border: 0;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-family: Montserrat,sans-serif;
+    font-size: 50px;
+    margin: 5px;
+    padding: 8px 10px;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+  }
+.icon-name{
+    font-size: 33px;
+}
+@media only screen and (max-width: 580px) {
+    
+}
+
+
+.tbale-category{
+    margin-left: 30px;
+}
+/* bysk */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .card {
+    width: 18%; /* Adjust as needed */
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }

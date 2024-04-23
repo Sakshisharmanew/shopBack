@@ -1,0 +1,45 @@
+/* PrintComponent.css */
+
+@media print {
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+  }
+
+  #bill-preview {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  header, main, footer {
+    page-break-inside: avoid;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  .footer-item {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .button-70 {
+    padding: 10px 20px;
+    font-size: 14pt;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+}

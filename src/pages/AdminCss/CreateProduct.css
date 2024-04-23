@@ -1,0 +1,26 @@
+.for_all_page{
+    background-color: #ffffff;
+}
+.sidebar{
+    display: block;
+}
+
+/* .form-select{
+    width: 30%;
+    display: inline-flex;
+}
+
+.form-control{
+    width: 45%;
+} */
+
+
+.star {
+    color: gray; /* default star color */
+    cursor: pointer;
+  }
+  
+  .star.selected {
+    color: yellow; /* selected star color */
+  }
+  
